@@ -6,6 +6,6 @@ category: kup
 topik: SPT
 subtopik: SPT Masa PPN
 type: word
-tgl: 11 Desember 2019
+modifiedTime: 11 Desember 2019
 ---
 
